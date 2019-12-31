@@ -10,6 +10,8 @@ I would like to compile all this into a clickable .exe file, but have tried py2e
 
 Thanks for any help!
 
+PS: I would like more info on how to structure my repo file structure and use a structure that most of the community adopts as "standard". Any thoughts on this would be great! Currently, to negate any confusion, the actual script file (Converter.py) is located in the "image-manipulation/image_exercises/JPG_to_PNG Converter" folder of the repo.
+
 
 
 MB
