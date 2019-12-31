@@ -1,0 +1,9 @@
+I am a VERY new developer, still in non-university training courses (self taught).
+
+That being said, I encourage everyone who sees this code to be brutally honest with the comments and CONSTRUCTIVE criticism.
+
+I am also looking for some Forks to compile this into an .exe file that can be ran from a clickable icon. I am running Python 3.8 and from what I have found, Pyinstaller, and py2exe, both do not have support for 3.8. I get TYPEERRORS for an int expected instead of a btye, and google suggests this is due to lack of 3.8 support and a change to the language, but I am too "green" to really comprehend this at this time.
+
+I have not tested this code on anything other than my machine, which is a Windows 10 64-Bit system running Python 3.8. I am not certain if the "os" module works for Linux or MacOS, and would like to know more about how this program works for you on your machine, if you have a different OS. Also, if you know of a way to make this 'OS Independant', that would be awesome as well!
+
+Thanks to all.
