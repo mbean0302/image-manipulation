@@ -1,0 +1,6 @@
+Required Imports:
+
+  PIL(Pillow) -- Image module
+  os module
+  time module
+  sys module
